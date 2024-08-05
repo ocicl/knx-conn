@@ -4,6 +4,6 @@ KNX client connectivity in Common Lisp
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/mdbergmann/knx-conn.git |
-| commit  | 52dd313                                        |
+| commit  | e294d1a                                        |
 | systems | knx-conn                                       |
 |---------+------------------------------------------------|
