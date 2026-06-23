@@ -7,4 +7,4 @@ KNX client connectivity in Common Lisp
 | commit  | eef1eb5                                        |
 | systems | knx-conn                                       |
 |---------+------------------------------------------------|
- 
+  
